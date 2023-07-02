@@ -6,5 +6,6 @@
 If you wish to learn more about me feel free to view my <a href="https://stevendalfall.netlify.app/">portfolio</a>!
 
 Over and out,
-<span>
+
+
 Steven
