@@ -1,12 +1,11 @@
 ## :wave: Hello!
 
 * Fullstack Developer .NET graduate from <a href="https://chasacademy.se/">Chas Academy</a> 2024.
-* Total experience developing projects with code: ≈3 years.
-* Working on an ASP.NET web-project with focus on e-commerce currently!
+* Currently employed at Samvima Gruppen AB as a .NET developer. Working on a bunch of projects with different tech-stacks in the company.
+* Approximate total working experience of: 2 years.
 
-If you wish to learn more about me feel free to view my <a href="https://stevendalfall.netlify.app/">portfolio</a>!
+Feel free to check out my new website hosted on my home server: https://stevensoftware.se/!
 
 Over and out,
-
 
 Steven
